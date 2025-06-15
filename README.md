@@ -16,6 +16,12 @@ Este projeto tem como objetivo analisar o índice de evasão de clientes (churn)
 - **Churn por Tipo de Contrato**: Identificação dos tipos de contrato que possuem maior taxa de evasão.  
 - **Correlação entre Variáveis Numéricas**: Avaliação das relações entre custos mensais, tempo de contrato e churn.  
 - **Análise Exploratória por Serviços Contratados**: Verificação dos serviços que impactam na retenção dos clientes.
+- pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+jupyter==1.0.0
+requests==2.31.0
+
 
 _(Aqui você pode inserir imagens de gráficos, caso tenha salvo algum)_  
 
