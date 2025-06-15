@@ -29,5 +29,4 @@ _(Aqui você pode inserir imagens de gráficos, caso tenha salvo algum)_
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/telecom-x.git
-   cd telecom-x
+   git clone https://https://github.com/phsmottanerd/Projeto-Telecom-X---An-lise-de-Evas-o-de-Clientes-/tree/main
